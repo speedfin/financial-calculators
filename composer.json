@@ -1,0 +1,8 @@
+{
+  "name": "speedfin/financial-calculators",
+  "type": "library",
+  "description": "Wrapper for speedfin financial calculators API",
+  "keywords": ["mortgage","finance","calculator"],
+  "homepage": "https://speedfin.pl",
+  "license": "MIT"
+}
